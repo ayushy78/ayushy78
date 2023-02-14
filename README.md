@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayushy78
 - 👀 I’m interested in Problem Solving, Machine Learning and Web Development.
 - 🌱 I’m currently learning Socket Programming and Next.js\
-- I also make scripts for crypto arbitrage and airdrops. 
+- I make and sell scripts for crypto arbitrage and airdrops on ETH and Solana blockchain. 
 - 📫 Reach me: ayushy78@gmail.com
 <!---
 ayushy78/ayushy78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
